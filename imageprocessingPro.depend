@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1463446246 source:/home/seifmostafa/Documents/works/C++/opencv/imageprocessingPro/main.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+
